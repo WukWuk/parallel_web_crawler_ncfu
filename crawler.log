@@ -1,0 +1,193 @@
+2025-06-09 01:34:01,937 [MainProcess] INFO: Старт параллельного веб-краулера.
+2025-06-09 01:34:01,937 [MainProcess] INFO: Запуск менеджера краулера...
+2025-06-09 01:34:02,452 [MainProcess] INFO: Запущен Worker-1
+2025-06-09 01:34:02,456 [MainProcess] INFO: Запущен Worker-2
+2025-06-09 01:34:02,459 [MainProcess] INFO: Запущен Worker-3
+2025-06-09 01:34:02,462 [MainProcess] INFO: Запущен Worker-4
+2025-06-09 01:34:02,466 [MainProcess] INFO: Запущен Worker-5
+2025-06-09 01:34:02,471 [MainProcess] INFO: Запущен Worker-6
+2025-06-09 01:34:02,477 [MainProcess] INFO: Запущен Worker-7
+2025-06-09 01:34:02,482 [MainProcess] INFO: Запущен Worker-8
+2025-06-09 01:34:02,488 [MainProcess] INFO: Запущен Worker-9
+2025-06-09 01:34:02,494 [MainProcess] INFO: Запущен Worker-10
+2025-06-09 01:34:02,498 [MainProcess] INFO: Запущен Worker-11
+2025-06-09 01:34:03,805 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler (найдено ссылок: 439)
+2025-06-09 01:34:04,258 [Worker-8] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-brin1998-41 (найдено ссылок: 439)
+2025-06-09 01:34:04,263 [Worker-5] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_ref-coffman_30-1 (найдено ссылок: 439)
+2025-06-09 01:34:04,300 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,310 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_server (найдено ссылок: 635)
+2025-06-09 01:34:04,312 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,333 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/OpenSearch_(specification) (найдено ссылок: 347)
+2025-06-09 01:34:04,335 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,340 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/Bandwidth_(computing) (найдено ссылок: 369)
+2025-06-09 01:34:04,346 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,397 [Worker-11] INFO: Обработана страница https://en.wikipedia.org/wiki/Microsoft_Word (найдено ссылок: 846)
+2025-06-09 01:34:04,398 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,439 [Worker-7] INFO: Обработана страница https://en.wikipedia.org/wiki/Wikipedia:Community_portal (найдено ссылок: 1903)
+2025-06-09 01:34:04,442 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,510 [Worker-10] INFO: Обработана страница https://en.wikipedia.org/wiki/Python_(programming_language) (найдено ссылок: 1458)
+2025-06-09 01:34:04,513 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,692 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/Federated_search (найдено ссылок: 185)
+2025-06-09 01:34:04,693 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,726 [Worker-3] INFO: Обработана страница https://en.wikipedia.org/wiki/Special:MyContributions (найдено ссылок: 36)
+2025-06-09 01:34:04,727 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,746 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/Spambots (найдено ссылок: 148)
+2025-06-09 01:34:04,747 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,826 [Worker-4] INFO: Обработана страница https://en.wikipedia.org/w/index.php?title=Web_crawler&action=info (найдено ссылок: 156)
+2025-06-09 01:34:04,828 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,847 [Worker-11] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_ref-47 (найдено ссылок: 439)
+2025-06-09 01:34:04,850 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,856 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/FOAF_(software) (найдено ссылок: 300)
+2025-06-09 01:34:04,861 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,905 [Worker-7] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#Academic_focused_crawler (найдено ссылок: 439)
+2025-06-09 01:34:04,907 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:04,983 [Worker-10] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_ref-Canada-2017-04-11_50-0 (найдено ссылок: 439)
+2025-06-09 01:34:04,985 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,014 [Worker-5] INFO: Обработана страница https://en.wikipedia.org/wiki/Focused_crawlers (найдено ссылок: 177)
+2025-06-09 01:34:05,016 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,109 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/PowerMapper (найдено ссылок: 86)
+2025-06-09 01:34:05,110 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,114 [Worker-3] INFO: Обработана страница https://en.wikipedia.org/wiki/Middleware (найдено ссылок: 318)
+2025-06-09 01:34:05,121 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,186 [Worker-6] INFO: Обработана страница https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata (найдено ссылок: 416)
+2025-06-09 01:34:05,188 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,200 [Worker-8] INFO: Обработана страница https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=17 (найдено ссылок: 52)
+2025-06-09 01:34:05,202 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,269 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard (найдено ссылок: 65)
+2025-06-09 01:34:05,270 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,298 [Worker-4] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-11 (найдено ссылок: 439)
+2025-06-09 01:34:05,300 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,359 [Worker-7] INFO: Обработана страница https://en.wikipedia.org/wiki/Text_mining (найдено ссылок: 490)
+2025-06-09 01:34:05,361 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,378 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/SortSite (найдено ссылок: 95)
+2025-06-09 01:34:05,379 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,472 [Worker-10] INFO: Обработана страница https://en.wikipedia.org/wiki/Top-level_domain (найдено ссылок: 599)
+2025-06-09 01:34:05,474 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,475 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/Document_retrieval (найдено ссылок: 100)
+2025-06-09 01:34:05,485 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,545 [Worker-3] INFO: Обработана страница https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements (найдено ссылок: 1029)
+2025-06-09 01:34:05,547 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,587 [Worker-6] INFO: Обработана страница https://en.wikipedia.org/wiki/Wikipedia:About (найдено ссылок: 231)
+2025-06-09 01:34:05,589 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,692 [Worker-11] INFO: Обработана страница https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=19 (найдено ссылок: 52)
+2025-06-09 01:34:05,693 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,731 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-40 (найдено ссылок: 439)
+2025-06-09 01:34:05,733 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,816 [Worker-4] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_search_engine (найдено ссылок: 643)
+2025-06-09 01:34:05,817 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,817 [Worker-8] INFO: Обработана страница https://en.wikipedia.org/wiki/Cross-language_information_retrieval (найдено ссылок: 87)
+2025-06-09 01:34:05,828 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,878 [Worker-10] INFO: Обработана страница https://en.wikipedia.org/wiki/Collaborative_search_engine (найдено ссылок: 222)
+2025-06-09 01:34:05,879 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:05,996 [Worker-6] INFO: Обработана страница https://en.wikipedia.org/wiki/Scrapy (найдено ссылок: 107)
+2025-06-09 01:34:05,997 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,071 [Worker-3] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_ref-20 (найдено ссылок: 439)
+2025-06-09 01:34:06,074 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,116 [Worker-11] INFO: Обработана страница https://en.wikipedia.org/wiki/Screen_scraping (найдено ссылок: 346)
+2025-06-09 01:34:06,117 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,193 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Wget (найдено ссылок: 402)
+2025-06-09 01:34:06,195 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,262 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/TkWWW_Robot (найдено ссылок: 795)
+2025-06-09 01:34:06,263 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,317 [Worker-8] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#Historical_web_crawlers (найдено ссылок: 439)
+2025-06-09 01:34:06,320 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,342 [Worker-5] INFO: Обработана страница https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Web_crawler (найдено ссылок: 284)
+2025-06-09 01:34:06,342 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,415 [Worker-4] INFO: Обработана страница https://en.wikipedia.org/wiki/Metadata (найдено ссылок: 1009)
+2025-06-09 01:34:06,416 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,445 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_June_2021 (найдено ссылок: 709)
+2025-06-09 01:34:06,447 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,516 [Worker-11] INFO: Обработана страница https://en.wikipedia.org/wiki/Msnbot (найдено ссылок: 295)
+2025-06-09 01:34:06,517 [Worker-6] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#bodyContent (найдено ссылок: 439)
+2025-06-09 01:34:06,517 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,529 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,572 [Worker-7] INFO: Обработана страница https://en.wikipedia.org/w/index.php?title=Web_crawler&oldid=1293518398 (найдено ссылок: 446)
+2025-06-09 01:34:06,573 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,580 [Worker-10] INFO: Обработана страница https://en.wikipedia.org/wiki/Cross-language_search (найдено ссылок: 89)
+2025-06-09 01:34:06,584 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,689 [Worker-3] INFO: Обработана страница https://en.wikipedia.org/wiki/Multimedia_search (найдено ссылок: 83)
+2025-06-09 01:34:06,690 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,694 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Web_crawler&action=show-download-screen (найдено ссылок: 24)
+2025-06-09 01:34:06,701 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,857 [Worker-5] INFO: Обработана страница https://en.wikipedia.org/wiki/Googlebot (найдено ссылок: 1079)
+2025-06-09 01:34:06,858 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,952 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/Uniform_Resource_Locator (найдено ссылок: 268)
+2025-06-09 01:34:06,954 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,983 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/Category:Web_crawlers (найдено ссылок: 60)
+2025-06-09 01:34:06,983 [Worker-4] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_ref-19 (найдено ссылок: 439)
+2025-06-09 01:34:06,984 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:06,993 [Worker-8] INFO: Обработана страница https://en.wikipedia.org/wiki/Spider_trap (найдено ссылок: 128)
+2025-06-09 01:34:06,997 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,008 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,117 [Worker-10] INFO: Обработана страница https://en.wikipedia.org/wiki/Deep_web (найдено ссылок: 229)
+2025-06-09 01:34:07,117 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,120 [Worker-3] INFO: Обработана страница https://en.wikipedia.org/wiki/Category:Internet_search_algorithms (найдено ссылок: 58)
+2025-06-09 01:34:07,128 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,164 [Worker-11] INFO: Обработана страница https://en.wikipedia.org/wiki/StormCrawler (найдено ссылок: 96)
+2025-06-09 01:34:07,165 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,187 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Internet_media_type (найдено ссылок: 182)
+2025-06-09 01:34:07,189 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,318 [Worker-7] INFO: Обработана страница https://en.wikipedia.org/wiki/Bingbot (найдено ссылок: 96)
+2025-06-09 01:34:07,319 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,619 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/HTTrack (найдено ссылок: 306)
+2025-06-09 01:34:07,620 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,753 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-17 (найдено ссылок: 439)
+2025-06-09 01:34:07,757 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,930 [Worker-8] INFO: Обработана страница https://en.wikipedia.org/wiki/Apache_Nutch (найдено ссылок: 306)
+2025-06-09 01:34:07,932 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,933 [Worker-6] INFO: Обработана страница https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit (найдено ссылок: 250)
+2025-06-09 01:34:07,943 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,949 [Worker-7] INFO: Обработана страница https://en.wikipedia.org/wiki/OWASP (найдено ссылок: 184)
+2025-06-09 01:34:07,954 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:07,985 [Worker-11] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_ref-cho2003_31-0 (найдено ссылок: 439)
+2025-06-09 01:34:07,987 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Recursion (найдено ссылок: 623)
+2025-06-09 01:34:07,988 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:08,000 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:08,027 [Worker-4] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_application_security (найдено ссылок: 216)
+2025-06-09 01:34:08,028 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:08,070 [Worker-10] INFO: Обработана страница https://en.wikipedia.org/wiki/Yahoo! (найдено ссылок: 745)
+2025-06-09 01:34:08,071 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:08,307 [Worker-5] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_ref-44 (найдено ссылок: 439)
+2025-06-09 01:34:08,311 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:10,974 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/Special:RecentChanges (найдено ссылок: 396)
+2025-06-09 01:34:10,976 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:12,774 [Worker-2] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Torsten_Suel: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:12,963 [Worker-6] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Web_crawler#References: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:12,963 [Worker-8] ERROR: Ошибка запроса https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=20: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:12,978 [Worker-7] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Web_crawler#Semantic_focused_crawler: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:13,010 [Worker-11] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Web_crawler#cite_note-46: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:13,010 [Worker-1] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Web_crawler#cite_ref-25: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:13,057 [Worker-4] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Web_crawler#cite_ref-1: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:13,103 [Worker-10] ERROR: Ошибка запроса https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=25: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:13,336 [Worker-5] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Special:BookSources/1-58113-680-3: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2025-06-09 01:34:13,413 [Worker-3] ERROR: Ошибка запроса https://en.wikipedia.org/wiki/Amazon_CloudSearch: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out.
+2025-06-09 01:34:13,801 [Worker-4] INFO: Обработана страница https://en.wikipedia.org/wiki/Thumbnail (найдено ссылок: 123)
+2025-06-09 01:34:13,803 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:13,887 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-21 (найдено ссылок: 439)
+2025-06-09 01:34:13,892 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:13,895 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Web_crawler&id=1293518398&wpFormIdentifier=titleform (найдено ссылок: 47)
+2025-06-09 01:34:13,903 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:14,017 [Worker-9] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-baeza2002-37 (найдено ссылок: 439)
+2025-06-09 01:34:14,022 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:14,171 [Worker-7] INFO: Обработана страница https://en.wikipedia.org/wiki/List_of_search_engines (найдено ссылок: 577)
+2025-06-09 01:34:14,172 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:14,291 [Worker-3] INFO: Обработана страница https://en.wikipedia.org/wiki/Special:SpecialPages (найдено ссылок: 186)
+2025-06-09 01:34:14,292 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:14,428 [Worker-2] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-28 (найдено ссылок: 439)
+2025-06-09 01:34:14,433 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:14,570 [Worker-1] INFO: Обработана страница https://en.wikipedia.org/wiki/Web_crawler#cite_note-10 (найдено ссылок: 439)
+2025-06-09 01:34:14,576 [MainProcess] WARNING: Очередь задач переполнена, пропускаем некоторые ссылки.
+2025-06-09 01:34:14,587 [MainProcess] INFO: Достигнут лимит по количеству страниц, менеджер останавливает работу.
+2025-06-09 01:34:14,587 [MainProcess] INFO: Завершён процесс Worker-1
+2025-06-09 01:34:14,587 [MainProcess] INFO: Завершён процесс Worker-2
+2025-06-09 01:34:14,587 [MainProcess] INFO: Завершён процесс Worker-3
+2025-06-09 01:34:14,587 [MainProcess] INFO: Завершён процесс Worker-4
+2025-06-09 01:34:14,588 [MainProcess] INFO: Завершён процесс Worker-5
+2025-06-09 01:34:14,588 [MainProcess] INFO: Завершён процесс Worker-6
+2025-06-09 01:34:14,589 [MainProcess] INFO: Завершён процесс Worker-7
+2025-06-09 01:34:14,589 [MainProcess] INFO: Завершён процесс Worker-8
+2025-06-09 01:34:14,589 [MainProcess] INFO: Завершён процесс Worker-9
+2025-06-09 01:34:14,589 [MainProcess] INFO: Завершён процесс Worker-10
+2025-06-09 01:34:14,590 [MainProcess] INFO: Завершён процесс Worker-11
+2025-06-09 01:34:14,590 [MainProcess] INFO: Краулер завершил работу. Всего посещено страниц: 100
+2025-06-09 01:34:14,612 [MainProcess] INFO: Краулер завершил работу.
