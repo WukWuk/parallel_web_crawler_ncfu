@@ -1,5 +1,6 @@
 from crawler.parser import extract_links
 
+
 HTML = '''
 <html>
   <body>
