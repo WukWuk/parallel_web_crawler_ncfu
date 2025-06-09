@@ -4,6 +4,7 @@ visualizer.py
 Простой консольный прогресс-бар для краулера.
 """
 
+
 import sys
 
 def print_progress(current: int, total: int, bar_length: int = 40):
