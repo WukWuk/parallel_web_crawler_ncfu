@@ -4,6 +4,7 @@ manager.py
 Менеджер краулера — координирует работу воркеров, управляет очередями и состоянием.
 """
 
+
 import multiprocessing
 import time
 from crawler.config import START_URL, MAX_DEPTH, MAX_PAGES, MAX_PROCESSES, TASK_QUEUE_MAXSIZE
