@@ -4,6 +4,7 @@ logger.py
 Модуль для настройки и работы с логированием краулера.
 """
 
+
 import logging
 import sys
 from logging.handlers import RotatingFileHandler
