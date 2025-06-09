@@ -2,6 +2,7 @@ import pytest
 from unittest.mock import patch, Mock
 from crawler.worker import crawl_page
 
+
 HTML_SAMPLE = '''
 <html>
   <body>
