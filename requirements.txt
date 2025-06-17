@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 pytest
 pytest-mock
+ttkbootstrap
+PyQt5
