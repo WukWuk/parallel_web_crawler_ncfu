@@ -1,6 +1,7 @@
 import pytest
 from crawler.utils import is_valid_url, normalize_url
 
+
 def test_is_valid_url():
     domain = "example.com"
     assert is_valid_url("http://example.com", domain)

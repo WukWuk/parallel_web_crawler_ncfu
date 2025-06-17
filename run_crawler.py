@@ -4,6 +4,7 @@ run_crawler.py
 Скрипт для запуска параллельного веб-краулера.
 """
 
+
 from crawler.manager import manager
 from crawler.logger import log
 

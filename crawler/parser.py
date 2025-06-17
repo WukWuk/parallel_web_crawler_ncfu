@@ -4,6 +4,7 @@ parser.py
 Парсинг HTML страниц и извлечение ссылок.
 """
 
+
 from bs4 import BeautifulSoup
 from crawler.utils import normalize_url, is_valid_url
 from crawler.config import ALLOWED_DOMAIN

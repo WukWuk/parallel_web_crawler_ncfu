@@ -4,6 +4,7 @@ utils.py
 Утилиты и вспомогательные функции для краулера.
 """
 
+
 from urllib.parse import urlparse, urljoin
 import re
 
